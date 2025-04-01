@@ -1,0 +1,181 @@
+name: Abababa
+id: ari:cloud:compass:00478d33-dfd1-4a0b-9a0f-6092db5b9587:component/c92d04a2-5c11-4a26-834a-0708275ab834/2674ba04-e3bd-4315-a49a-b93e47ed4a86
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/KairoFree/Abababa
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields:
+  - name: All the things!
+    type: text
+    value: null
+  - name: Bik
+    type: text
+    value: null
+  - name: ChekBoox
+    type: boolean
+    value: false
+  - name: Give me Moar!
+    type: text
+    value: null
+  - name: Moar
+    type: text
+    value: null
+  - name: MultiSelect
+    type: multi_select
+    value: null
+  - name: Number
+    type: number
+    value: null
+  - name: Rawr Text
+    type: text
+    value: null
+  - name: SingleSelect
+    type: single_select
+    value: null
+  - name: Userb
+    type: user
+    value: null
+  - name: bab
+    type: text
+    value: null
+  - name: bae
+    type: text
+    value: null
+  - name: baf
+    type: text
+    value: null
+  - name: baffy
+    type: text
+    value: null
+  - name: baft
+    type: text
+    value: null
+  - name: bak
+    type: text
+    value: null
+  - name: balk
+    type: text
+    value: null
+  - name: baller
+    type: text
+    value: null
+  - name: balling
+    type: text
+    value: null
+  - name: bar
+    type: text
+    value: null
+  - name: barf
+    type: text
+    value: null
+  - name: bas
+    type: text
+    value: null
+  - name: bat
+    type: text
+    value: null
+  - name: baz
+    type: text
+    value: null
+  - name: bee
+    type: text
+    value: null
+  - name: beehee
+    type: text
+    value: null
+  - name: bello
+    type: text
+    value: null
+  - name: benben
+    type: text
+    value: null
+  - name: bet
+    type: text
+    value: null
+  - name: bi
+    type: text
+    value: null
+  - name: billy
+    type: text
+    value: null
+  - name: blegh
+    type: text
+    value: null
+  - name: blep
+    type: text
+    value: null
+  - name: bling
+    type: text
+    value: null
+  - name: blip
+    type: text
+    value: null
+  - name: bllow
+    type: text
+    value: null
+  - name: blong
+    type: text
+    value: null
+  - name: bloop
+    type: text
+    value: null
+  - name: blop
+    type: text
+    value: null
+  - name: bob
+    type: text
+    value: null
+  - name: bolk
+    type: text
+    value: null
+  - name: bom
+    type: text
+    value: null
+  - name: boop
+    type: text
+    value: null
+  - name: boopers
+    type: text
+    value: null
+  - name: boops
+    type: text
+    value: null
+  - name: bop
+    type: text
+    value: null
+  - name: bopbop
+    type: text
+    value: null
+  - name: brawr
+    type: text
+    value: null
+  - name: bruh
+    type: text
+    value: null
+  - name: build
+    type: text
+    value: null
+  - name: bwah
+    type: text
+    value: null
+  - name: bwah?
+    type: text
+    value: null
+  - name: bwak
+    type: text
+    value: null
+  - name: bwara
+    type: text
+    value: null
+  - name: bwuh
+    type: text
+    value: null
